@@ -10,7 +10,7 @@ It sometimes becomes tricky to find out the number of VCpus consumed in any give
 1. Download or [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) the script from github repository.
 
     ```sh
-    $ git clone https://github.com/mrsatya21/Total-Vcpus-used-Per-Region.git
+    git clone https://github.com/mrsatya21/Total-Vcpus-used-Per-Region.git
     ```
 2. Go to the directory Total-Vcpus-used-Per-Region where you have downloaded or cloned the repository. 
 
