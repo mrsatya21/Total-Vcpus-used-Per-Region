@@ -9,25 +9,25 @@ It sometimes becomes tricky to find out the number of VCpus consumed in any give
 
 1. Download or [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) the script from github repository.
 
-    sh
+    ```sh
     $ git clone https://github.com/mrsatya21/Total-Vcpus-used-Per-Region.git
-    
+    ```
 2. Go to the directory Total-Vcpus-used-Per-Region where you have downloaded or cloned the repository. 
 
-    sh
+    ```sh
     cd Total-Vcpus-used-Per-Region
-    
+    ```
 
 3. Change the permission - 
 
-    sh
+    ```sh
     chmod +x total_VCpu_Per_Region.sh 
-    
+    ```
 
 4. Run the shell script - 
 
-    sh
+    ```sh
     ./total_VCpu_Per_Region.sh 
-    
+    ```
 
 NOTE - It is necessary to [install](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html#cli-configure-files-methods) AWS [CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html) before using this script.
